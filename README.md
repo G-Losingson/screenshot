@@ -1,6 +1,6 @@
-# screenshots
+# Screenshots
 
-A new Flutter project.
+A demo app for explain about screenshot and sharing in a Flutter App
 
 ## Getting Started
 
